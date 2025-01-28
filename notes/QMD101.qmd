@@ -1,11 +1,9 @@
 ---
-title: ".rmd/.qmd | Tips & Tricks"
-output-dir: "output"
+title: " Tips & Tricks | .rmd/.qmd"
 format: 
   html:
     toc: true
-    code-fold: true
-bibliography: "references.bib"
+    bibliography: "references.bib"
 ---
 
 

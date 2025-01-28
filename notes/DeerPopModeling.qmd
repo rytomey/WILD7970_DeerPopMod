@@ -1,11 +1,9 @@
 ---
 title: "WTD Population Modeling Notes"
 author: "Rylee D. Tomey"
-output-dir: "output"
 format: 
   html:
     toc: true
-    code-fold: true
 ---
 
 **Syllabus:** https://github.com/anyadoc/deerpopmodeling/blob/main/DeerPopModeling_Syllabus.pdf
