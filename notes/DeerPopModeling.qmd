@@ -8,8 +8,7 @@ format:
 
 **Syllabus:** https://github.com/anyadoc/deerpopmodeling/blob/main/DeerPopModeling_Syllabus.pdf
 
-
-```{r include=FALSE} 
+```{r include=FALSE}
 
 ####### Uncomment chunk after initial set-up #################
 
